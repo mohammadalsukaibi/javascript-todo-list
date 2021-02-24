@@ -1,3 +1,3 @@
 # javascript-todo-list
 
-### a small javascript project to practice DOM manipulation
+### a small javascript todo list application to practice DOM manipulation
